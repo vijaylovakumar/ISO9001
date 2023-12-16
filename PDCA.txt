@@ -1,0 +1,5 @@
+PDCA:
+P:Plan
+D:DO
+C:check
+A:Act
